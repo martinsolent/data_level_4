@@ -5,12 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Digital Creativity COM420
-{: .fs-9 }
 
 # Level 4 Data Analyst Apprenticeship
 
-![](images/pexels-vlada-karpovich-4050296.jpg)
+![](docs/images/pexels-vlada-karpovich-4050296.jpg)
+
 Photo Creative Commons CC0  by [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from Pexels
 
 **Data analysis is in high demand, with organisations increasingly requiring skilled staff to collect, analyse and interpret their data. The primary role of a data analyst is to collect, organise and study data to provide business insight. Analysts are typically involved with managing, cleansing, abstracting and aggregating data, and conducting a range of analytical studies on that data.**
@@ -27,10 +26,4 @@ We currently offer the [Level 4 Data Analyst pathway](https://www.solent.ac.uk/c
 ## Introduction to Computing  Apprenticeships at Solent University
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82682069-bf8e-4564-835b-ac440103c18c&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;start=0&amp;interactivity=all" height="405" width="720" allowfullscreen="" allow="autoplay" style="font-size: 0.9375rem; letter-spacing: 0.45px; border-width: 1px; border-style: solid; border-color: #464646;"></iframe>
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
 
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
-
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
