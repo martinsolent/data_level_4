@@ -8,41 +8,83 @@ nav_order: 29
 
 # Portfolio
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=286b4a1e-12e0-4e84-84c4-ae3e00f52d9f&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=true&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+![](images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
+
+Photo by [Kimberly Farmer](https://unsplash.com/@kimberlyfarmer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/portfolio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+For the Professional discussion with portfolio, the apprentice will be required to submit:
+
+* A portfolio of examples to be used to underpin the professional discussion.
+* The format and structure of the portfolio should be agreed upon between the employer, the apprentice, and the EPAO (e.g. hard copy or online).
+* The content should be sufficient to evidence the apprentice can apply the knowledge, skills, and behaviours required as mapped to the professional discussion
+* There should be at least one piece of evidence relating to each of the knowledge, skills and behaviours mapped to the professional discussion.
+* Evidence should be mapped against the KSBs.
+* Evidence may be used to demonstrate more than one KSB; a qualitative, as opposed to a quantitative approach, is suggested.
+* It is expected that there will typically be 10 pieces of evidence in total.
+* The portfolio should contain evidence of work projects completed such as written accounts of activities that have been completed, photographic evidence and work products, work instructions, safety documentation, technical reports, drawings, company policies, and procedures as appropriate to the activities.
+* Progress review documentation, witness testimonies, and feedback from colleagues and/ or clients should also be included.
+* **Reflective accounts and self-assessments must not be included as evidence.**
+* The evidence provided must be valid and attributable to the apprentice; the portfolio of evidence must contain a statement from the employer and apprentice confirming this.
+* The apprentice’s Manager/ Mentor will typically support the development of the portfolio in accordance with company policy and procedures, although the EPAO will provide further guidance on the content.
+
+**The portfolio of examples is not directly assessed.** It underpins the professional discussion and therefore should not be marked by the EPAO. Independent Assessors should review the portfolio of examples in preparation for the Professional Discussion but are not required to provide feedback after their review of the portfolio. 
+
+### Portfolio Template Checklist
+
+This template is to support the training provider in working with the apprentice and employer to inform the development of a portfolio.
+
+The checklists can be used to help them manage portfolio development through to completion.
+
+The apprentice should gather and record information that evidences relevant activities undertaken in the workplace, demonstrating specific Knowledge, Skills and Behaviours that are required in the portfolio.
+
+The apprenticeship standards are designed to cover a wide range of different job roles. If the relevant Knowledge, Skills and Behaviours evidenced in the portfolio are weak due to limited exposure within the day-to-day activities of the workplace, this will limit the number of relevant examples of work that an apprentice can draw on to evidence their Knowledge, Skills and Behaviours in discussions with assessors.
+
+**Top Tips:**
+
+* Refer to the assessment plan and understand exactly what evidence is required in the portfolio
+* Ensure that there are relevant activities at work to support the development of evidence for the portfolio
+* Ensure that the portfolio includes genuine evidence and not simulations
+* The checklist should be used when planning work activities to ensure that apprentices are developing relevant knowledge skills and behaviours on the job, knowledge skills and behaviours that can be used as evidence in their portfolio
+ 
+
+[Data Analyst Standard (June 2021)](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1)
+
+The checklist below outlines which knowledge skills and behaviours are relevant to the portfolio within the specific standard that the apprentice is on. Use the checklist to plan work activities and to check the portfolio evidence at the end of the apprentice’s journey before Gateway. 
 
 
-You are required to create a portfolio of the work you have undertaken over the course of your apprenticeship. This will be the work you produced on-programme on your university modules and also work you have undertaken in your job role with your employer (that maps to the standard learning outcomes)
-
-You just need an overarching document with a summary of each of the items you have in your portfolio and you need to map these to the learning outcomes c from the Digital and Technology Solutions apprenticeship standard which is broken down into core skills and skills that belong to your specialism (pathway).
-
-You have already been assessed on all the work you submitted on the course, but it is a requirement of the apprenticeship that you do complete a portfolio of your work and that is then checked when you move into EPA and gateway, it is also used when the University is inspected as a training provider,
-
-You will be offered support and guidance in the final Synoptic Project Module COM625 and in following the Gateway EPA period, but to support the mapping process learning outcomes for both the core and specialism skills for each of the pathways.
-
-### EPA PACK
-Please download the Portfolio Specialist Skills Matrix, Learning Outcomes  & EPA Support Documents for your pathway to map the learning the apprenticeship learning outcomes to your Portfolio items:
-
-[Business Analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Business_Analyst.zip){: .btn .btn-purple } 
-
-[Cyber Security Specialist](dhttps://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Cyber_Security_Specialist.zip){: .btn .btn-purple } 
-
-[Data analyst](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Data_Analyst.zip){: .btn .btn-purple } 
-
-[IT Consultant](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/IT_Consultant.zip){: .btn .btn-purple }
-
-[Network Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Network_Engineer.zip){: .btn .btn-purple } 
-
-[Software Engineer](https://github.com/martinsolent/solent_store/raw/main/docs/BDATS_EPA_PACKS/Software_Engineer.zip){: .btn .btn-purple } 
-
-You will upload your completed portfolio together with a learning outcome mapping grid in the Gateway EPA period.
-### Gateway EPA Checklist
-
-Gateway EPA take place in the EPA period following on from the completion of all credited on-programme modules at the end of 3rd year.
+Explain how current, relevant legislation impacts the safe use of data and how their role contributes to a productive, safe, and secure working environment (K1, B1)
 
 
-1. Completed 20% Tracker - This will be a printout of the complete tracker from the BDATS SOL course SOL page and/or a self-created spreadsheet.
-1. Completed Portfolio Mapped to the Standard learning outcome.
-1. A signed off Conflict of Interest Form - signed by the apprentice, their manager & EPA Assessor confirming that you do not know each other
-1. A signed off EPA Ready Form - signed by the apprentice, their manager & Solent University
-1. Manager/Employer Feedback - this will be feedback on the project and also on the apprenticeship as a whole covering the value that the apprentice has offered to the organisation. (500 words max)
-1. All documents are available above. Once completed please ZIP them up and submit them on the Portfolio upload link.
+Explain the relevant data policies and procedures for the organisation, and identifies the data standards to be reached (K2)
+
+Describe the fundamentals of data structures and database system design and explains how they are implemented and maintained. (K6)
+
+Explain approaches to combining data from different sources to improve accuracy and/or efficiency and/or maximise benefits to the organisation and/or customer. (K10)
+
+Describe the impact of user experience and domain context on data analysis. (S5)
+
+Explain the differences between Structured and Unstructured data. (K5)
+
+Explain the ethical aspects associated with the collation and use of data and justifies why this is important. (K15)
+
+Describe the relevant tools or techniques used for working with the data systems architecture in their organisation. (S9)
+
+Explains and applies the principles of statistics for analysing datasets (K13, S10)
+
+Identifies and explains challenges in their work and how they overcame them, providing an outline of lessons learned (B6)
+
+Explains how they have applied analytical techniques for data mining and time series forecasting and other modelling techniques (S13)
+
+Identify areas of work where they adapted to changing contexts within the scope of a project, direction of the organisation or Data Analyst role. (B7)
+
+Explain the principles of descriptive, predictive, and prescriptive analytics and demonstrate how they have been applied within their own data analysis practice. (K14, S11)
+
+Demonstrate data analysis activities involving the collation and interpretation of qualitative and quantitative data and displays results using visual representations. (S14)
+
+Explain the principles of user experience and domain context for data analytics. (K7)
+
+Describe how they have appropriately adapted their activities to meet minor, unexpected changes at work. (B2)
+
+Describe how they have ensured the true root cause of any problem is found and a solution is identified which prevents recurrence. (B5)
+
+Download BCS Portfolio Checklist
