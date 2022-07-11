@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study Days
-nav_order: 20
+nav_order: 4
 ---
 
 {: .no_toc }

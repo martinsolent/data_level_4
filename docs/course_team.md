@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Course Team
-nav_order: 38
+nav_order: 4
 ---
 
 {: .no_toc }

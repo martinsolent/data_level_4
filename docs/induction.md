@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Induction
-nav_order: 48
+nav_order: 2
 ---
 
 {: .no_toc }
