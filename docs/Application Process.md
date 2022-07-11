@@ -8,6 +8,8 @@ nav_order: 44
 
 # Application Process
 
+![Banner image](images/markus-winkler-3Rn2EjoAC1g-unsplash.jpg)
+
 To study for an apprenticeship, **you must be employed by a sponsoring organisation.** The specific entry requirements will be agreed with your employer. 
 
 Employers please enquire through our apprenticeship team **apprenticeships@solent.ac.uk**
