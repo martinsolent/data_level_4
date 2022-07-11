@@ -27,10 +27,12 @@ Individual employers will set the selection criteria, but this is likely to incl
 
 You will be asked to upload a number of documents including personal statement, CV, job description, copy of your passport and your academic/professional certificates.
 
-You will also need to complete, and upload a self-assessment to make sure we will be up-skilling. This is what is known as Initial Assessment. It will assess prior learning to establish the ‘starting point’, or baseline, for the apprentice. This informs how much of the apprenticeship training content the individual requires. It checks that the apprenticeship is an appropriate training programme for the individual and is about the whole standard.
+### Initial assessment
+You will also need to complete, and upload a self-assessment to make sure we will be up-skilling. This is what is known as **Initial Assessment**. It will assess prior learning to establish the ‘starting point’, or baseline, for the apprentice. This informs how much of the apprenticeship training content the individual requires. It checks that the apprenticeship is an appropriate training programme for the individual and is about the whole standard.
 
-Education & Skills Funding Agency., 2021. Apprenticeships: initial assessment to recognise prior learning [viewed 11 July 2022]. Available from:[https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning](https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning)
+**EDUCATION & SKILLS FUNDING AGENCY., 2021.** Apprenticeships: initial assessment to recognise prior learning [viewed 11 July 2022]. Available from:[https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning](https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning)
 
+Find out more about Solent's RPL process
 
 
 ## Interview
