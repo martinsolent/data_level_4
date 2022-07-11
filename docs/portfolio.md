@@ -20,7 +20,7 @@ For the Professional discussion with portfolio, the apprentice will be required 
 * There should be at least one piece of evidence relating to each of the knowledge, skills and behaviours mapped to the professional discussion.
 * Evidence should be mapped against the KSBs.
 * Evidence may be used to demonstrate more than one KSB; a qualitative, as opposed to a quantitative approach, is suggested.
-* It is expected that there will typically be 10 pieces of evidence in total.
+* **It is expected that there will typically be 10 pieces of evidence in total.**
 * The portfolio should contain evidence of work projects completed such as written accounts of activities that have been completed, photographic evidence and work products, work instructions, safety documentation, technical reports, drawings, company policies, and procedures as appropriate to the activities.
 * Progress review documentation, witness testimonies, and feedback from colleagues and/ or clients should also be included.
 * **Reflective accounts and self-assessments must not be included as evidence.**
@@ -52,28 +52,20 @@ The apprenticeship standards are designed to cover a wide range of different job
 The checklist below outlines which knowledge skills and behaviours are relevant to the portfolio within the specific standard that the apprentice is on. Use the checklist to plan work activities and to check the portfolio evidence at the end of the apprentice’s journey before Gateway. 
 
 
-Explain how current, relevant legislation impacts the safe use of data and how their role contributes to a productive, safe, and secure working environment **(K1, B1)**
+| KSB Code         |      KSB Description                            | 
+|:-----------------|:------------------------------------------------|
+| **K1,B1**     | Explain how current, relevant legislation impacts the safe use of data and how their role contributes to a productive, safe, and secure working environment |
+|**K2**|Explain the relevant data policies and procedures for the organisation, and identifies the data standards to be reached|
+|**K6**|Describe the fundamentals of data structures and database system design and explains how they are implemented and maintained. |
+| **K10**|Explain approaches to combining data from different sources to improve accuracy and/or efficiency and/or maximise benefits to the organisation and/or customer.|
+|**S5**|Describe the impact of user experience and domain context on data analysis.|
+|**K5**|Explain the differences between Structured and Unstructured data. |
+|**K15**|Explain the ethical aspects associated with the collation and use of data and justifies why this is important.|
+|**S9**|Describe the relevant tools or techniques used for working with the data systems architecture in their organisation. |
+|**K13,S10**|Explains and applies the principles of statistics for analysing datasets |
+|**B6**|Identifies and explains challenges in their work and how they overcame them, providing an outline of lessons learned |
+|**S13**|Explains how they have applied analytical techniques for data mining and time series forecasting and other modelling techniques |
 
-
-Explain the relevant data policies and procedures for the organisation, and identifies the data standards to be reached **(K2)**
-
-Describe the fundamentals of data structures and database system design and explains how they are implemented and maintained. **(K6)**
-
-Explain approaches to combining data from different sources to improve accuracy and/or efficiency and/or maximise benefits to the organisation and/or customer. **(K10)**
-
-Describe the impact of user experience and domain context on data analysis. **(S5)**
-
-Explain the differences between Structured and Unstructured data. **(K5)**
-
-Explain the ethical aspects associated with the collation and use of data and justifies why this is important. **(K15)**
-
-Describe the relevant tools or techniques used for working with the data systems architecture in their organisation. **(S9)**
-
-Explains and applies the principles of statistics for analysing datasets **(K13, S10)**
-
-Identifies and explains challenges in their work and how they overcame them, providing an outline of lessons learned **(B6)**
-
-Explains how they have applied analytical techniques for data mining and time series forecasting and other modelling techniques **(S13)**
 
 Identify areas of work where they adapted to changing contexts within the scope of a project, direction of the organisation or Data Analyst role. **(B7)**
 
@@ -87,4 +79,4 @@ Describe how they have appropriately adapted their activities to meet minor, une
 
 Describe how they have ensured the true root cause of any problem is found and a solution is identified which prevents recurrence. **(B5)**
 
-Download BCS Portfolio Checklist
+[Download BCS Portfolio Checklist](https://github.com/martinsolent/solent_store/raw/main/docs/Data%20Analyst%20Level%204%20-%20Portfolio%20Checklist.docx)
