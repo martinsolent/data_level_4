@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Networks & Security COM412
-parent: L4 Modules
+parent: Structure & Delivery
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Structure
+title: Structure & Delivery
 nav_order: 7
 has_children: true
 ---
