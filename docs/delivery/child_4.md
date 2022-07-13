@@ -10,6 +10,12 @@ nav_order: 5
 
 # Data Analysis, Tools & Application COM418
 
+**Why is this module important?**
+
+In the digital era the amount of data managed by companies is tremendous. New tools are required to process this data and extract knowledge.  
+ 
+The module takes the students through the data life cycle process; collecting, cleaning, processing, analysis and interpretation. Many different technologies will be used in this process. 
+
 
 **By the end of this module you will be able to:**
 
@@ -47,4 +53,10 @@ Cluster Analysis
 * Decision Analysis
 
 We use Microsoft Excel and PowerBI desktop for the delivery. Our students will build up their analysis skill using ranging of tools in Excel together with visualising data using PowerBI. in Excel together with visualising data using PowerBI.
+
+**Assessments**
+
+AE1 - Individual Report 2000 words (70%)
+
+AE2 - Project Presentation plus notes 5 minutes per person plus 5 minutes questions to the group
 

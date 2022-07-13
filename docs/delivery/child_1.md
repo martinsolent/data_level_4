@@ -39,7 +39,7 @@ Time Constrained Assessment (TCA) 4 hours
 
 Software Product with Report 2000 words
 
-[Tech Stack & Delivery](https://martinsolent.github.io/bdats/docs/tech_stacks/child_5.html){: .btn .btn-purple }
+[Module Descriptor](){: .btn .btn-purple }
 
 
 

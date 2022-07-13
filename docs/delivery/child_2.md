@@ -58,6 +58,6 @@ Multi-choice answer (MCA) 90 mins
 
 Time constrained assignment (TCA) 120 mins
 
-[Tech Stack & Delivery](){: .btn .btn-purple }
+[Module Descriptor](){: .btn .btn-purple }
 
 
