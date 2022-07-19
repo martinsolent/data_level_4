@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Essential Links
+title: KSBs
 nav_order: 5
 ---
 
