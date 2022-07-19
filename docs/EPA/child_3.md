@@ -69,3 +69,4 @@ Independent assessors must be developed and trained by the EPAO in the conduct o
 * overview of the typical titles of projects
 * question bank
 
+[Project Presentation Info](../info/Project with presentation and questioning.zip){: .btn .btn-purple }
