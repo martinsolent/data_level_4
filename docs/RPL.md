@@ -15,7 +15,7 @@ Photo by <a href="https://unsplash.com/@jakobnoahrosen?utm_source=unsplash&utm_m
 
 *Before an apprenticeship begins, the main training provider must conduct an initial assessment. They will assess the individual’s prior learning to establish the ‘starting point’, or baseline, for the apprentice. This informs how much of the apprenticeship training content the individual requires.*
 
-> **EDUCATION & SKILLS FUNDING AGENCY., 2021.** Apprenticeships: initial assessment to recognise prior learning [viewed 11 July 2022]. Available from:[https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning](https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning)
+[**EDUCATION & SKILLS FUNDING AGENCY., 2021.** Apprenticeships: initial assessment to recognise prior learning](https://www.gov.uk/government/publications/apprenticeships-recognition-of-prior-learning/apprenticeships-initial-assessment-to-recognise-prior-learning)
  
 ### Initial Assessment
 
