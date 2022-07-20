@@ -31,5 +31,5 @@ If the applicant  has a good case to prove that they already have the that will 
 
 Once an apprentice has completed the form and created appendices of evidence this will be checked by the admissions tutor before being passed on to Student Registry where it will go to a panel who will review the evidence and the documentation offered before making their decision
 
-[Solent RPL Policy](../info/2h-recognition-of-prior-learning-and-credit-transfer.pdf)
+[Solent RPL Policy](info/2h-recognition-of-prior-learning-and-credit-transfer.pdf)
 
