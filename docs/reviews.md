@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reviews
-nav_order: 6
+nav_order: 11
 ---
 
 {: .no_toc }
