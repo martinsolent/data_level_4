@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Databases COM417
+title: Systems Analysis & Design COM423
 parent: Structure & Delivery
 nav_order: 4
 ---
@@ -8,94 +8,60 @@ nav_order: 4
 {: .no_toc }
 
 
-# Introduction to Databases COM417
+# Systems Analysis & Design Work Based Project COM423
 
-![COM417 Learning Journey](../images/COM417_Learning_Journey.jpg)
+
 
 ### Why is this module important?
 
-Databases are a major component of ICT systems. Mobile apps, social networks, video games and most software systems deploy databases or deal with data somehow. In this module you are introduced to the skills and concepts required to develop and use relational databases. You will learn how to write programs interacting with databases and how to create them. This provides a solid foundation to prepare for modules involving web, internet or software development elsewhere on your course.
-
-### What you will be able to do after the module:
-
-1.	Explain key issues in the development and administration of relational databases and their role in modern IT systems. 
-2.	Discuss the use of SQL functionality to create information from data. 
-3.	Apply conceptual modelling techniques to the design and implementation of a simple database.
-4.	Apply enterprise-level database software tools in the development, implementation and testing of SQL-based database solutions.
-5.	Evaluate data using statistical techniques to provide meaningful information.
-6.	Describe the appropriate ethical and legal methods for data collection, usage and storage.
-
-### What you will learn on this module
-
-**Retrieving Data**
-
-* Basic concepts of relational model
-* SQL for queries including joins, grouping and sub-queries
-* SQL functions for statistical analysis 
-
-**Database Design and Implementation**
-
-* Normalisation
-* ER modelling
-* SQL to create tables including inserting/updating/deleting records
-* Primary and referential integrity for single column keys
-* Check constraints
-
-**Monitoring and Administering Databases**
-
-* Authenticated access to database tools and applications
-* Monitoring of database usage
-* Access control and user permissions
-
-**Programming for databases**
-
-* Key programming concepts
-* Using cursors in programming languages
-* Writing PLSQL procedures
-* Creating Triggers and Functions
-* Legal Requirements concerning data
-* Including GDPR, Computer Misuse Act
+Systems analysis is a project-driven process that ensures that information systems are designed, developed and maintained in ways that provide optimum value to companies and clients.  It is concerned with the identification and examination of business requirements and problems and the creation of efficient solutions. It is effective when all sides of the problem are reviewed, and when more than one design solution can be proposed. This module will also provide an introduction to project management which is very useful. This module is important for Apprentices as it allows them to practically apply the knowledge gained in the classroom and blended sessions into the workplace.
 
 
-**Block 1 - Retrieving data using SQL Queries
-Basic queries**
 
-* Functions
-* Inner and Outer Joins
-* Aggregation
-* Comparing and combining result sets
-* Nested queries
+### What you will learn on the module
 
-**Block 2 - Design and implementation**
+In this module, the key components of business information systems are identified and dissected to reveal the essential elements considered in systems analysis. Theoretical approaches towards the planning and execution of effective design strategies are supported by practical case study examples. You will learn how to identify user requirements in order to analyse the functionality of systems and to produce basic design specifications for a spectrum of commercial and industrial situations. They will also be introduced to the management of project life cycles that govern the process of systems analysis.  In doing so, they will be introduced to and use software tools that are current in wider industrial contexts. Sessions will also be run to introduce formal academic writing, researching and referencing.
 
-* Database lifecycle
-* Conceptual, logical and physical design
-* Types of relationships
-* ERD and EERD
-* Generalisation and specialisation
-* Types of constraints
-* Database Implementation
-* Testing constraints
+The module will cover the context for business information systems and the analysis stages of the systems development life cycle in breadth. The stages covered will be project initiation, feasibility, investigation and analysis. For each stage, the objectives, scope, prerequisites, tasks, resources, techniques and deliverables are identified.
 
-**Block 3 - Programming with Databases**
+Initiation: Identification of the need for a new updated system initiated by new requirements or specific problems. The agreement on terms of reference before the start of any feasibility study.
 
-* Writing programs with embedded SQL
-* Transaction control
-* Minimising SQL injection attacks
-* Using Pandas to export and import data to a SQL database.
+Feasibility: Investigation of the viability of a project in terms of the financial, technical and operational viewpoints.
+
+Investigation: The investigation of a system using fact-finding techniques to gather information that is used for later analysis.
+
+Analysis: The analysis of facts found at the investigation stage will culminate in a statement of user requirements. This approach will take account of both structured and object-oriented methods, and these will also be used to produce an updated version of the user requirements document to re-address appropriate initial analyses as system requirements change. 
+
+Design: Incorporates the transition from analysis to design using conceptual diagramming techniques as appropriate for both structured and object-oriented methods.
+
+Construction and Implementation: Takes account of elementary planning control and scheduling, presentation of a proposed new system, implementation tasks including testing, installation strategies, handover, training, quality assurance and documentation.
+
+Maintenance and Review: Including amendment procedures, configuration management, and post-implementation review.
+
+Project Management
 
 
-We use SQLite and Python for the delivery but teach ANSI standard SQL so it can be applied to any flavour of SQL. Our students get an introduction to Python in semester 1 and study Databases in semester 2 which builds on those Python skills and seems to work well.
+
+### What you will be able to do after the module
+
+Module is formally and summatively assessed using a portfolio of tasks consisting of individual projects and a structured report in which you are required to draw on a broad knowledge of the systems analysis process. The individual project requires a detailed analysis of a specific information system and use appropriate techniques and methodologies to solve a defined business problem or need.  
+
+1.	Identify and explain the stages of information system development within organisations or in business contexts including analysis and design methodologies and their associated techniques.
+2.	Apply the principles and techniques of systems analysis to a specific business development problem or requirement, including the use of software support tools.
+3.	Investigate, analyse and critique a business system using recognised systems development concepts and techniques. Offers suggestions for process and cost (time and money) improvement.
+4.	Analyse and build models using appropriate computer packages and modelling techniques.
+5.	Present reports and results clearly, in a variety of ways, accurately and to a specified format.
+6.	Reflect on interaction with stakeholders.
 
 
 ### Summative assessment details
 
 **AE1 Weighting: 100%**
 
-Portfolio including software artefacts 2000 words
+Portfolio Report with supporting artefacts 
+(2000 Words)
 
-[Module Descriptor](../info/Level 4 Modules/COM417 Introduction to Databases.docx){: .btn .btn-purple }
 
-
+[Module Descriptor](../info/Level 4 Modules/COM423 Systems Analysis and Design Work Based Project .docx){: .btn .btn-purple }
 
 
