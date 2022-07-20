@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Record of Prior Learning
-nav_order: 58
+nav_order: 4
 ---
 
 {: .no_toc }
