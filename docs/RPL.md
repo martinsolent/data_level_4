@@ -24,7 +24,7 @@ Prior to your interview apprenticeship applicants will need to complete a self a
 [Download Self-Assesment Form](info/Self-Assessment 22-L6_DATS_template.docx){: .btn .btn-purple }
 
 
-
+### Solent University Record of Prior Learning (RLP)
 The admissions tutor for apprenticeships will discuss prior learning at the interview and give all the information needed to complete the form.
 
 If the applicant  has a good case to prove that they already have the that will be taught on part of the course they can apply for record of prior learning which means those modules will be
