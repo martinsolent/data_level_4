@@ -10,6 +10,8 @@ nav_order: 4
 
 # Introduction to Databases COM417
 
+![COM417 Learning Journey](../images/COM417_Learning_Journey.jpg)
+
 ### Why is this module important?
 
 Databases are a major component of ICT systems. Mobile apps, social networks, video games and most software systems deploy databases or deal with data somehow. In this module you are introduced to the skills and concepts required to develop and use relational databases. You will learn how to write programs interacting with databases and how to create them. This provides a solid foundation to prepare for modules involving web, internet or software development elsewhere on your course.
@@ -55,8 +57,8 @@ Databases are a major component of ICT systems. Mobile apps, social networks, vi
 5.	Evaluate data using statistical techniques to provide meaningful information.
 6.	Describe the appropriate ethical and legal methods for data collection, usage and storage.
 
-Block 1 - Retrieving data using SQL Queries
-Basic queries
+**Block 1 - Retrieving data using SQL Queries
+Basic queries**
 
 * Functions
 * Inner and Outer Joins
@@ -64,7 +66,7 @@ Basic queries
 * Comparing and combining result sets
 * Nested queries
 
-Block 2 - Design and implementation
+**Block 2 - Design and implementation**
 
 * Database lifecycle
 * Conceptual, logical and physical design
@@ -75,7 +77,7 @@ Block 2 - Design and implementation
 * Database Implementation
 * Testing constraints
 
-Block 3 - Programming with Databases
+**Block 3 - Programming with Databases**
 
 * Writing programs with embedded SQL
 * Transaction control
@@ -92,7 +94,7 @@ We use SQLite and Python for the delivery but teach ANSI standard SQL so it can 
 
 Portfolio including software artefacts 2000 words
 
-[Module Descriptor](){: .btn .btn-purple }
+[Module Descriptor](../info/Level 4 Modules/COM417 Introduction to Databases.docx){: .btn .btn-purple }
 
 
 

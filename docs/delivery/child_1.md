@@ -42,6 +42,8 @@ You will be introduced to the problem-solving process and its importance in the 
 * [Git](https://git-scm.com/)
 * [GitHub](http://github.com/)
 
+As a student you can get a GitHub student education account FREE, just sign up for a  GitHub account with your university email then verify that you are a student here: [education.github.com/pack/join](https://education.github.com/pack/join)
+
 ### Summative assessment details
 
 **AE1	Weighting: 50%**
