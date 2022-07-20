@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Application Process
-nav_order: 44
+nav_order: 2
 ---
 
 {: .no_toc }
