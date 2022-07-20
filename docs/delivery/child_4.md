@@ -10,14 +10,16 @@ nav_order: 5
 
 # Data Analysis, Tools & Application COM418
 
-**Why is this module important?**
+![](../images/COM418-Module-Learning-Journey-Diagram.png)
+
+### Why is this module important?
 
 In the digital era the amount of data managed by companies is tremendous. New tools are required to process this data and extract knowledge.  
  
 The module takes the students through the data life cycle process; collecting, cleaning, processing, analysis and interpretation. Many different technologies will be used in this process. 
 
 
-**By the end of this module you will be able to:**
+### By the end of this module you will be able to:
 
 1. Identify appropriate tools and techniques for data analysis, data visualisation and presentation.
 
@@ -30,9 +32,9 @@ The module takes the students through the data life cycle process; collecting, c
 
 1. Communicate and summarise and present the results of data analysis to a range of stakeholders making recommendations.
 
-![](../images/COM418-Module-Learning-Journey-Diagram.png)
+### What you will be able to do after the module:
 
-The Data Analysis, Tools and Application module consists of three parts:
+### The Data Analysis, Tools and Application module consists of three parts:
 
 **Part 1: Foundations of Data Analysis**
 
@@ -54,9 +56,10 @@ Cluster Analysis
 
 We use Microsoft Excel and PowerBI desktop for the delivery. Our students will build up their analysis skill using ranging of tools in Excel together with visualising data using PowerBI. in Excel together with visualising data using PowerBI.
 
-**Assessments**
+### Assessments
 
-AE1 - Individual Report 2000 words (70%)
+**AE1 - Individual Report 2000 words (70%)**
 
-AE2 - Project Presentation plus notes 5 minutes per person plus 5 minutes questions to the group
+**AE2 - Project Presentation plus notes 5 minutes per person plus 5 minutes questions to the group**
 
+[Module Descriptor](../info/Level 4 Modules/COM418 Data Analysis Tools  Application.docx){: .btn .btn-purple }
