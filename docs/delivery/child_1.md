@@ -28,6 +28,20 @@ You will be introduced to the problem-solving process and its importance in the 
 5.	Interpret and follow approaches to version and source control
 6.	Recognise legal, social, ethical & professional issues related to software development.
 
+### The module is split into 4 blocks:
+
+* **Block 1:** Basics - fundamental programming concepts such as input/output, conditional statements, loops, functions, and modules.
+* **Block 2:** Data - working with data sources such as CSV and JSON. Storing data in data structures such as lists and dictionaries.
+* **Block 3:** Visualisation - visualising data using popular visualisation libraries.
+* **Block 4:** OOP - learn key object-oriented programming concepts and applying this to program construction.
+
+### Tech Stack & Tools:
+* [Python](https://www.python.org/) (+ a range of python modules)
+* [Matplotlib](https://matplotlib.org/)
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Git](https://git-scm.com/)
+* [GitHub](http://github.com/)
+
 ### Summative assessment details
 
 **AE1	Weighting: 50%**
@@ -39,7 +53,7 @@ Time Constrained Assessment (TCA) 4 hours
 
 Software Product with Report 2000 words
 
-[Module Descriptor](){: .btn .btn-purple }
+[Module Descriptor](../info/Level 4 Modules/COM411 Problem Solving Through Programming.docx){: .btn .btn-purple }
 
 
 
