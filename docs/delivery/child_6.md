@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Applied Computing Project COM426
+title: Computing Project COM426
 
 parent: Structure & Delivery
 
@@ -46,4 +46,4 @@ In the summative assessment, you will create a portfolio of work which will supp
 * How you intend to evaluate and present results•Project planning•Indication of how your project will map to the knowledge skills and behaviours (KSBs) of the standard
 * Practical experimentation and pilot studyOnce completed this assessment will give you a solid foundation of resources for compiling your EPA Project Report and Presentation.
 
-
+[Module Descriptor](../info/Level 4 Modules/COM426 Computing Project.docx){: .btn .btn-purple }
