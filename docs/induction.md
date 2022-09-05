@@ -10,7 +10,7 @@ nav_order: 4
 
 Apprenticeship induction takes place on campus two weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
-#### Tuesday 13th September 2022 - 9:00 - 13:00 - Room: Spark Building TS412
+**Tuesday 13th September 2022 - 9:00 - 13:00 - Room: Spark Building TS412**
 
 ![](images/L4_spark_TS412.png)
 
