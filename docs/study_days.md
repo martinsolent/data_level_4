@@ -24,7 +24,7 @@ As a default we aim to have Level 4 on Tuesday) but due demand on resources this
 
 **Level 4**
 
-* Semester 1 (Sept-Jan) - **Tuesdays starting 25/9/22**
+* Semester 1 (Sept-Jan) - **Tuesdays starting 27/9/22**
 * Semester 2 (Jan-May) - TBC
 * Semester 3 (May-Sept) - TBC
 
