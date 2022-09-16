@@ -28,7 +28,9 @@ As a default we aim to have Level 4 on Tuesday) but due demand on resources this
 
 **COM411 - Problem-Solving through Programming**
 Tutor darren.cunningham@solent.ac.uk 
+
 Time: 10:00-12:00 
+
 Room: JM312
 
 **The will be time for lunch, guided learing and self study/assessment work**
