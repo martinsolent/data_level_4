@@ -33,7 +33,7 @@ Time: 10:00-12:00
 
 Room: JM312
 
-**The will be time for lunch, guided learing and self study/assessment work**
+**There will be time for lunch, guided learning and self study/assessment work**
 
 
 * Semester 2 (Jan-May) - TBC
