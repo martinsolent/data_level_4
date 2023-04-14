@@ -10,15 +10,15 @@ nav_order: 4
 
 **Apprenticeship induction takes place on campus** two weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
 
-**Tuesday 13th September 2022 - 9:00 - 13:00 - Room: Spark Building TS412**
+**Tuesday 12th September 2023 - 10:00 - 14:40 - Room: Spark Building TS412**
 
-1. Arrival in TS412 - 9:00-9.20
-1. Introductions - 9:20-9:30
-1. Course Presentation - 9:30-10:30
-1. Q&A - 10:30-10:50
-1. **Registration in Spark - 11:00-11:30**
-1. Break - 11:30-11:50
-1. Campus Tour - 11:50-13:00
+1. Arrival in TS412 - 10:00-10.20
+1. Introduction - 10:20-10:30
+1. Course Presentation - 10:30-11:30
+1. Q&A - 11:30-11:50
+1. Registration in Spark - 12:00-12:30
+1. Break - 12:30-13:30
+1. Campus Tour - 13:40-14:40
 
 ![](images/L4_spark_TS412.png)
 
