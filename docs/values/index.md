@@ -1,7 +1,8 @@
 ---
 layout: default
-title: British Values & Safeguarding
+title: British Values
 nav_order: 12
+has_children: true
 ---
 
 {: .no_toc }
@@ -48,4 +49,6 @@ Prevent is one of four strands that make up the government’s counter-terrorism
 On 1 April 2018 the Office for Students (OfS) took over from the Higher Education Funding Council for England (HEFCE) in the role of regulating English higher education providers on behalf of all students, including the role of working with universities to ensure the appropriate Prevent duty policies, procedures and arrangements are in place, and following an OfS Prevent monitoring framework for this purpose.
 
 [https://students.solent.ac.uk/student-hub/prevent](https://students.solent.ac.uk/student-hub/prevent)
+
+
 
