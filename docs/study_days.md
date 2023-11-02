@@ -20,22 +20,5 @@ Half of the study day will be taken-up with classes and the rest of your study d
 
 ### What will be my university study day 2022-23?
 
-As a default we aim to have Level 4 on Tuesday) but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
-
-**Level 4**
-
-* Semester 1 (Sept-Jan) - **Tuesdays starting 27/9/22**
-
-**COM411 - Problem-Solving through Programming**
-Tutor darren.cunningham@solent.ac.uk 
-
-Time: 10:00-12:00 
-
-Room: JM312
-
-**There will be time for lunch, guided learning and self study/assessment work**
-
-
-* Semester 2 (Jan-May) - TBC
-* Semester 3 (May-Sept) - TBC
+As a default we aim to have Level 4 on Tuesday but due demand on resources this is not always possible, but we will confirm study days in advance of you starting the course or progressing to the next level/year.
 
