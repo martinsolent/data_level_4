@@ -12,7 +12,7 @@ nav_order: 8
 
 It's important that both the apprentice and the manager/mentor or familiar with the KSBs to support their apprentice throughout their apprenticeship in the selection of evidence for the portfolio and the Endpoint aAssessment EPA which which will take place within the final 3 months of the apprenticeship.
 
-[DOWNLOAD KSB COURSE MAPPING](../docs/images/images/L4_Data_mapping_standard_2021.docx){: .btn .btn-purple }
+[DOWNLOAD KSB COURSE MAPPING](../images/images/L4_Data_mapping_standard_2021.docx){: .btn .btn-purple }
 
  
 ### Knowledge
