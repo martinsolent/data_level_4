@@ -11,6 +11,9 @@ nav_order: 8
 [Knowledge, Skills and Behaviours KSBs](https://www.instituteforapprenticeships.org/developing-new-apprenticeships/developing-occupational-standards/) are the learning outcomes that all apprenticeship standards are built upon.
 
 It's important that both the apprentice and the manager/mentor or familiar with the KSBs to support their apprentice throughout their apprenticeship in the selection of evidence for the portfolio and the Endpoint aAssessment EPA which which will take place within the final 3 months of the apprenticeship.
+
+[Link button](../docs/images/images/){: .btn .btn-purple }
+
  
 ### Knowledge
 
