@@ -18,6 +18,8 @@ Review meetings are undertaken by Kenton Wheeler and Martin Reid
 
 ![](images/kenton_martin.png)
 
+<!--
+
 [Download Review Form Template UPDATED JUNE 2022](https://github.com/martinsolent/solent_store/raw/main/docs/APPRENTICESHIP%20REVIEW%20FORM%202022.docx)
 
 
@@ -58,5 +60,5 @@ Initially, the Solent Reviewer to get the apprentice to arrange a convenient tim
 ![review_workflow](https://github.com/martinsolent/solent_store/raw/main/images/review_workflow-100_v4.png)
 
 
-
+--!>
 
