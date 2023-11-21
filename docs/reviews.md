@@ -60,5 +60,3 @@ Initially, the Solent Reviewer to get the apprentice to arrange a convenient tim
 ![review_workflow](https://github.com/martinsolent/solent_store/raw/main/images/review_workflow-100_v4.png)
 
 
---!>
-
