@@ -8,19 +8,40 @@ nav_order: 4
 
 # Induction
 
-**Apprenticeship induction takes place on campus** two weeks before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus.
+**Apprenticeship induction takes place on campus** a week before the start of term. Induction day is an opportunity for apprentices to meet tutors, learn more about delivery of the course and an opportunity to tour the campus. **For those who are unable to attend the Tuesday induction we are running one for you on Thursday 16th Jan 2025 13:00-15:00 this will also be in JM413**
 
-**Tuesday 12th September 2023 - 10:00 - 14:40 - Room: Spark Building TS412**
+**Tuesday 14th January 2025 - 9:00 - 14:30 - Room: JM413**
 
-1. Arrival in TS412 - 10:00-10.20
-1. Introduction - 10:20-10:30
-1. Course Presentation - 10:30-11:30
-1. Q&A - 11:30-11:50
-1. Registration in Spark - 12:00-12:30
-1. Break - 12:30-13:30
-1. Campus Tour - 13:40-14:40
+**Directions JM413**:Take lift outside the Deli and Student Union Office to 4th Floor Sir John Everett Millais building (JM) Building.Turn left out of the lift. Follow the corridor.JM413 will be on the right.**See below**
 
-![](images/L4_spark_TS412.png)
+9.00 Registration with Admissions
+
+9.30 – 9.50 Apprenticeship team
+
+* What is an Apprenticeship?
+* Why are you special?
+* Off the job trackers
+* Progress reviews
+* End Point Assessment
+* Uni Buddy
+
+10.00 - 10.15 Library Services
+
+10.15 - 10.30 Access Solent
+
+10.30 – 10.45 Solent Futures
+
+11.00 – 11.15 Therapy and Mental Health
+
+11.15 – 11.45 Safeguarding/Prevent
+
+11.45 – 12.00 Students Union
+
+**Break - 12:00-13:00**
+
+13.00 - 14:30 Course Lead Induction & Campus Tour
+
+![](images/bb)
 
 
 ### Campus: East Park Terrace, Southampton SO14 0YN
@@ -29,12 +50,3 @@ nav_order: 4
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.8322225061675!2d-1.402574148061115!3d50.908320479440754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487476b1943c33e9%3A0x7b3d2a7c433db059!2sSolent%20University!5e0!3m2!1sen!2suk!4v1658263361358!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-[Spark Building Plan](https://github.com/martinsolent/solent_store/raw/main/the-spark-room-guide-and-map.pdf){: .btn .btn-purple }
-
-
-
-### Last Year's Induction Presentation 2021-22
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b0b14943-b23a-4114-8a28-ada801008324&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-[Download Induction Slides](info/BDATS_HNC_INDUCTION_2022.pptx)[Spark Building Plan](https://github.com/martinsolent/solent_store/raw/main/the-spark-room-guide-and-map.pdf){: .btn .btn-purple }
