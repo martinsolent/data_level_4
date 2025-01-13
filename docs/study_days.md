@@ -15,7 +15,7 @@ The Academic year is delivered over 3 semesters with Data Analyst HNC L4 Apprent
 Half of the study day will be taken-up with classes and the rest of your study day will involve consolidating learning and working towards assessment/s.
 
 
-[Solent University Academic calendar for 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2023-24.pdf)
+[Solent University Academic calendar for 2023-24](https://students.solent.ac.uk/official-documents/policy-governance-and-information/academic-calendar-2024-25.pdf)
 
 ### What will be my university study day?
 
