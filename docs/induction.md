@@ -16,6 +16,8 @@ nav_order: 4
 
 **Directions JM413**:Take lift outside the Deli and Student Union Office to 4th Floor Sir John Everett Millais building (JM) Building.Turn left out of the lift. Follow the corridor.JM413 will be on the right.**See below**
 
+[Download Induction Slides](info/Data-Analyst-Apprenticeship-jan-25.pptx)
+
 9.00 Registration with Admissions
 
 9.30 – 9.50 Apprenticeship team
